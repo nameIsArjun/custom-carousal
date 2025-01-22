@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/custom-carousal/static/css/main.b8cc054f.css",
-    "main.js": "/custom-carousal/static/js/main.b63e6cb7.js",
+    "main.css": "/custom-carousal/static/css/main.5f5432cf.css",
+    "main.js": "/custom-carousal/static/js/main.809ad819.js",
     "static/js/488.53290a07.chunk.js": "/custom-carousal/static/js/488.53290a07.chunk.js",
     "index.html": "/custom-carousal/index.html",
-    "main.b8cc054f.css.map": "/custom-carousal/static/css/main.b8cc054f.css.map",
-    "main.b63e6cb7.js.map": "/custom-carousal/static/js/main.b63e6cb7.js.map",
+    "main.5f5432cf.css.map": "/custom-carousal/static/css/main.5f5432cf.css.map",
+    "main.809ad819.js.map": "/custom-carousal/static/js/main.809ad819.js.map",
     "488.53290a07.chunk.js.map": "/custom-carousal/static/js/488.53290a07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8cc054f.css",
-    "static/js/main.b63e6cb7.js"
+    "static/css/main.5f5432cf.css",
+    "static/js/main.809ad819.js"
   ]
 }
