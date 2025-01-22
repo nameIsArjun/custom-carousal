@@ -2,7 +2,7 @@
   "name": "image-carousal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nameIsArjun.github.io/image-carousal",
+  "homepage": "https://nameIsArjun.github.io/custom-carousal",
   "dependencies": {
     "embla-carousel": "^8.5.2",
     "embla-carousel-auto-scroll": "^8.5.2",
